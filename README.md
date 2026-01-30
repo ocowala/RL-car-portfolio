@@ -8,4 +8,8 @@ we'll see what happens lol
 * chassis [DONE]
 3. added raw blend file of E30 M3 Car (took a while to finish this, igwt for next parts) [DONE]
 4. testing if car renders on website
-5. 
+5. make Track assets [WORKING]
+* make track from AWS DeepRacer track 2022 [DONE]
+* make white plane [DONE]
+* make trees [DONE]
+* position trees [WORKING]
