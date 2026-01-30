@@ -6,5 +6,6 @@ we'll see what happens lol
 * wheel_BL [DONE]
 * wheel_BR [DONE]
 * chassis [DONE]
-3. added raw blend file of E30 M3 Car (took a while to finish this, igwt)
-
+3. added raw blend file of E30 M3 Car (took a while to finish this, igwt for next parts) [DONE]
+4. testing if car renders on website
+5. 

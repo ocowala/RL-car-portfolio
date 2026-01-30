@@ -1,0 +1,25 @@
+{
+  "name": "rl-car-portfolio",
+  "version": "1.0.0",
+  "description": "we'll see what happens lol 1. made Github repo 2. make E30 M3 assets [WORKING] * wheel_FL [DONE] * wheel_FR [DONE] * wheel_BL [DONE] * wheel_BR [DONE] * chassis [DONE] 3. added raw blend file of E30 M3 Car (took a while to finish this, igwt for next parts) [DONE] 4. testing if car renders on website 5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocowala/RL-car-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ocowala/RL-car-portfolio/issues"
+  },
+  "homepage": "https://github.com/ocowala/RL-car-portfolio#readme",
+  "dependencies": {
+    "three": "^0.182.0",
+    "vite": "^7.3.1"
+  }
+}
