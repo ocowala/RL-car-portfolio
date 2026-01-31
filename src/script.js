@@ -42,7 +42,7 @@ scene.add(directionalLight);
 const loader = new GLTFLoader();
 
 loader.load(
-    '/models/car.glb', 
+    'statics/models/car.glb', 
     (gltf) => {
         const car = gltf.scene;
         scene.add(car);
