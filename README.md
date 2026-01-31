@@ -13,4 +13,5 @@ we'll see what happens lol
 * make white plane [DONE]
 * make trees [DONE]
 * position trees [DONE]
-6. testing if car and track renders together [WORKING]
+6. testing if car and track renders together (could later test more) [DONE]
+7. 
