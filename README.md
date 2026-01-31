@@ -12,4 +12,5 @@ we'll see what happens lol
 * make track from AWS DeepRacer track 2022 [DONE]
 * make white plane [DONE]
 * make trees [DONE]
-* position trees [WORKING]
+* position trees [DONE]
+6. testing if car and track renders together [WORKING]
